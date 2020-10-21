@@ -9,8 +9,10 @@ package Kambing;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Kambing
  */
-public class Kambing {
+public class PBO1010119913Latihan4 {
     
     public void tambahKambing(){
         int jumlahKambing =0;
@@ -23,7 +25,7 @@ public class Kambing {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Kambing kambingJantan = new Kambing();
+        PBO1010119913Latihan4 kambingJantan = new PBO1010119913Latihan4();
         kambingJantan.tambahKambing();
     }
     
